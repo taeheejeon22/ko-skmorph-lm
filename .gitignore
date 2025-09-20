@@ -1,0 +1,36 @@
+# mac OS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# OS/editor
+.vscode/
+.idea/
+
+# pycharm
+.idea/*
+*.pyc
+
+
+# dictionary
+./dict
+
+
+# virtual env.
+./ko-sk-lm/*
+
+
+# large files
+*.bin
+*.pth
+.models/*
+
+
