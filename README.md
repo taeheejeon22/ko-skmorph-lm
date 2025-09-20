@@ -9,9 +9,13 @@ We investigate whether Transformer-based language models, trained solely on Hang
 
 
 
+# Dataset Overview
+A compact corpus of Sino‑Korean (SK) two‑syllable words curated to test whether language models can recover morphemic meaning from Hangul alone. For each of 100 targets, we provide two neighbors: a **real** neighbor that shares the same SK morpheme in the first syllable and a **fake** neighbor that shares only the Hangul syllable (no SK morpheme match). The analysis‑ready CSV augments these pairs with similarity scores (BERT/fastText), Top‑K similar‑word counts/ratios (K=500/600), and frequency features used in Experiments 1–3.
+![Figure 2.](figures/figure_2.png)
+
+
 # Source Dataset
 - `data/dataset.xlsx` — Source dataset
-
 
 ## Schema
 
