@@ -1,11 +1,18 @@
 # Improving Korean NLP Tasks with Linguistically Informed Subword Tokenization and Sub-character Decomposition
 [![CC BY 4.0][cc-by-shield]][cc-by]
 [![KOGL TYPE 1][kogl-1-shield]][kogl-1]
-[![EMNLP Paper][acl-paper-shield]][emnlp-paper]
+<!-- [![EMNLP Paper][emnlp-paper-shield]][emnlp-paper] -->
+
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+
+[kogl-1-shield]: https://img.shields.io/badge/License-KOGL%20Type1%20-lightgreen.svg
+[kogl-1]: https://www.kogl.or.kr/info/license.do
+
 
 EMNLP 2025 Findings accepted paper
 
-- [arXiv link] TBA
+- [paper link] TBA
 
 ## Author
 Taehee Jeon
@@ -140,3 +147,16 @@ For example, in VS Code, set **Jupyter: Notebook File Root** to `${workspaceFold
 
 # Citation
 - TBA
+
+
+
+
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+This work is used according to [Korea Open Government License (KOGL) Type 1](https://www.kogl.or.kr/info/license.do). <br/>
+
+[![KOGL ORIGINAL TYPE 1][kogl-original-1-shield]][kogl-original-1]
+
+[kogl-original-1-shield]: https://www.kogl.or.kr/static/kogl/img/sub/number1.jpg
+[kogl-original-1]: https://www.kogl.or.kr/info/license.do
