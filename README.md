@@ -1,4 +1,10 @@
 # Improving Korean NLP Tasks with Linguistically Informed Subword Tokenization and Sub-character Decomposition
+[![CC BY 4.0][cc-by-shield]][cc-by]
+[![KOGL TYPE 1][kogl-1-shield]][kogl-1]
+[![EMNLP Paper][acl-paper-shield]][emnlp-paper]
+
+EMNLP 2025 Findings accepted paper
+
 - [arXiv link] TBA
 
 ## Author
