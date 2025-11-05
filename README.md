@@ -12,7 +12,7 @@
 
 EMNLP 2025 Findings accepted paper
 
-- [paper link] TBA
+- [paper link]: https://aclanthology.org/2025.findings-emnlp.569/
 
 ## Author
 Taehee Jeon
