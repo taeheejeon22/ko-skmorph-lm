@@ -1,4 +1,4 @@
-# Improving Korean NLP Tasks with Linguistically Informed Subword Tokenization and Sub-character Decomposition
+# Beyond Distribution: Investigating Language Models’ Understanding of Sino-Korean Morphemes
 [![CC BY 4.0][cc-by-shield]][cc-by]
 [![KOGL TYPE 1][kogl-1-shield]][kogl-1]
 <!-- [![EMNLP Paper][emnlp-paper-shield]][emnlp-paper] -->
@@ -146,7 +146,13 @@ For example, in VS Code, set **Jupyter: Notebook File Root** to `${workspaceFold
 
 
 # Citation
-- TBA
+> @inproceedings{jeon2025beyond,
+  title={Beyond Distribution: Investigating Language Models’ Understanding of Sino-Korean Morphemes},
+  author={Jeon, Taehee},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+  pages={10762--10772},
+  year={2025}
+}
 
 
 
